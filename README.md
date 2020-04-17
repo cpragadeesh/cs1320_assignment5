@@ -1,7 +1,5 @@
 # cs1320_assignment5
-Assignment 5
-
-# IMmaPlayMobile
+# Assignment 5
 
 # Setup
 - Install node version 10 or higher: [link](https://nodejs.org/en/download/) 
